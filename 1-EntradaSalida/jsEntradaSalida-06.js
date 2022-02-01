@@ -26,7 +26,9 @@ resultado = numeroUno + numeroDos;
 
 
 //muestra el resultado de la suma
-    
+
+    //document.write(resultado)    
+
 
     alert("El resultado de la suma es: " + resultado);
 

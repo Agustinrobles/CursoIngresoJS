@@ -1,4 +1,6 @@
 /*
+Robles Agustin Leonardo DIV E
+E/S ej7
 Debemos lograr tomar Los numeros por ID ,
 transformarlos a enteros (parseInt),realizar la operación correcta y 
 mostrar el resulto por medio de "ALERT"

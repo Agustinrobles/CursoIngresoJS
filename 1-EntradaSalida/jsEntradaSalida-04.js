@@ -12,7 +12,7 @@ function mostrar()
 	var nombreIngresado;
 
 	//guardo el dato
-	nombreIngresado=prompt("ingrese su nombre");
+	nombreIngresado=prompt("ingrese su nombre").;
 
 	//asigno nombre a la caja de texto
 	txtIdNombre.value = nombreIngresado;
